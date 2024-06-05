@@ -1,0 +1,3 @@
+[submodule "scripts/videoclip"]
+	path = scripts/videoclip
+	url = https://github.com/Ajatt-Tools/videoclip
