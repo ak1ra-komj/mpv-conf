@@ -361,11 +361,15 @@ function runAnnotation(fileName, videoWidth, videoHeight, duration, imgOutput, o
         "convert",
         "-background",
         "white",
+
+        "-font",
+        "c:/windows/fonts/msyh.ttc",
+
         "-pointsize",
-        "40",
+        "32",
         "-gravity",
         "northwest",
-        "label:mpv Media Player",
+        "label:mpv-player/mpv (mpv.io)",
         // Add top margin
         "-splice",
         "0x10",
