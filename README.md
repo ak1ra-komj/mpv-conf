@@ -14,4 +14,4 @@ git clone --recurse-submodules https://github.com/ak1ra-komj/mpv-conf.git mpv
 
 ## script-opts/videoclip.conf
 
-You might want to update `video_folder_path` and `audio_folder_path`.
+You might want to update `video_folder_path` and `audio_folder_path`, because they are hard-coded.
